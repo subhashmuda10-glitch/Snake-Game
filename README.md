@@ -30,18 +30,6 @@ The goal of the game is to control the snake to eat food, grow longer, and avoid
 
 ---
 
-## ⚙️ Requirements
-
-Make sure you have **Python 3.x** and **Pygame** installed.
-
-Install Pygame using pip:
-
-```bash
-pip install pygame
-```
-
----
-
 ## ▶️ How to Run the Game
 
 1. Clone or download the repository.
@@ -75,11 +63,8 @@ pip install pygame
 
 ## 📸 Screenshot (Optional)
 
-You can add a screenshot of your game here:
+<img width="806" height="758" alt="image" src="https://github.com/user-attachments/assets/e9183441-fd9a-4fff-8b11-ae4865a38fad" />
 
-```
-![Snake Game Screenshot](screenshot.png)
-```
 
 ---
 
